@@ -23,4 +23,4 @@ At **Dino Escape**, we aim to:
 
 ### 🔗 Play Now  
 🌍 **Web Version**: [Dino Escape Web](https://dino-escape.netlify.app/)  
-🕹 **Unity Version**: *[Coming Soon / Link Here]*  
+🕹 **Unity Version**: [Dino Escape Unity](https://github.com/Dino-Escape/dino-escape-unity.git)
